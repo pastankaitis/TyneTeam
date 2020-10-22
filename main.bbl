@@ -1,0 +1,28 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{KKMS03}
+
+\bibitem[Don10]{10.1007/978-3-642-14295-6_17}
+Alexandre Donz{\'e}, \emph{Breach, a toolbox for verification and parameter
+  synthesis of hybrid systems}, Computer Aided Verification (Berlin,
+  Heidelberg) (Tayssir Touili, Byron Cook, and Paul Jackson, eds.), Springer
+  Berlin Heidelberg, 2010, pp.~167--170.
+
+\bibitem[GP06]{10.1007/11730637_22}
+Antoine Girard and George~J. Pappas, \emph{Verification using simulation},
+  Hybrid Systems: Computation and Control (Berlin, Heidelberg) (Jo{\~a}o~P.
+  Hespanha and Ashish Tiwari, eds.), Springer Berlin Heidelberg, 2006,
+  pp.~272--286.
+
+\bibitem[KKMS03]{10.1007/3-540-36580-X_22}
+Jim Kapinski, Bruce~H. Krogh, Oded Maler, and Olaf Stursberg, \emph{On
+  systematic simulation of open continuous systems}, Hybrid Systems:
+  Computation and Control (Berlin, Heidelberg) (Oded Maler and Amir Pnueli,
+  eds.), Springer Berlin Heidelberg, 2003, pp.~283--297.
+
+\end{thebibliography}
